@@ -13,4 +13,5 @@
         <li>Status</li>
     </ul>
 </body>
+<footer class="footer">Rodapé Curso git</footer>
 </html>
