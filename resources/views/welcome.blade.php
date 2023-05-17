@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Cursos da Git</title>
+    <title>Cursos da Git nova Branch Título</title>
 </head>
 <body>
     <ul>
