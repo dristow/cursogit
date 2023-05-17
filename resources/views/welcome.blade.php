@@ -9,6 +9,7 @@
         <li>Versionamento</li>
         <li>Comandos</li>
         <li>Deploy</li>
+        <li>Status</li>
     </ul>
 </body>
 </html>
