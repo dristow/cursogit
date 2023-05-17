@@ -11,6 +11,7 @@
         <li>Deploy</li>
         <li class="column">Integração</li>
         <li>Status</li>
+        <li class="">Setup</li>
     </ul>
 </body>
 </html>
