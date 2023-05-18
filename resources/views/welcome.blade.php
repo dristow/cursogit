@@ -2,16 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Cursos da Git</title>
+    <title>CURSO Git Branch Título</title>
 </head>
 <body>
+    <h1>Merge da branch master com a branch titulo</h1>
     <ul>
         <li>Versionamento</li>
         <li>Comandos</li>
         <li>Deploy</li>
         <li class="column">Integração</li>
         <li>Status</li>
-        <li class="">Setup</li>
     </ul>
 </body>
+<footer class="footer">Rodapé Curso git</footer>
 </html>
