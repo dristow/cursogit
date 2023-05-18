@@ -21,6 +21,11 @@
                 <li>git stash apply 0 - adiciona novamente infos salvas nessa posicao e mantem na llista </li>
                 <li>git stash drop - limpa a lista</li>
                 <li>git stash pop - remove da lista e faz o merge das modificacoes salvas</li>
+
+                <li>test</li>
+                <li>test</li>
+                <li>test</li>
+                <li>test</li>
             </ul>
         </li>
     </ul>
