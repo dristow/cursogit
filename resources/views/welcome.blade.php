@@ -7,8 +7,8 @@
 <body>
     <h1>Merge da branch master com a branch titulo</h1>
     <ul>
-        <li>Versionamento</li>
-        <li>Comandos</li>
+        <li>Vagrant: Gerenciamento Máquinas Virtuais</li>
+        <li>Docker: Criando containers sem dor de cabeça</li>
         <li>Deploy</li>
         <li class="column">Integração</li>
         <li>Status</li>
