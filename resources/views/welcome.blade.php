@@ -11,7 +11,6 @@
         <li>Docker: Criando containers sem dor de cabeça</li>
         <li>Ansible: Infraestrutura como código</li>
         <li>Integração Contínua: Maturidade e Produtividade no Desenvolvimento de Software</li>
-        <li>Kubernetes</li>
-        <li>GIT STASH</li>
+        <li>Kubernetes: Introdução a orquestração de conteiners</li>
 <footer class="footer">Rodapé Curso git</footer>
 </html>
