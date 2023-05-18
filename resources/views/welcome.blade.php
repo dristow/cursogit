@@ -12,6 +12,6 @@
         <li>Ansible: Infraestrutura como código</li>
         <li>Integração Contínua: Maturidade e Produtividade no Desenvolvimento de Software</li>
         <li>Kubernetes</li>
-        <li>Mudando</li>
+        <li>GIT STASH</li>
 <footer class="footer">Rodapé Curso git</footer>
 </html>
