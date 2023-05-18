@@ -21,11 +21,30 @@
                 <li>git stash apply 0 - adiciona novamente infos salvas nessa posicao e mantem na llista </li>
                 <li>git stash drop - limpa a lista</li>
                 <li>git stash pop - remove da lista e faz o merge das modificacoes salvas</li>
+            </ul>
+        </li>
+    </ul>
 
-                <li>test</li>
-                <li>test</li>
-                <li>test</li>
-                <li>test</li>
+    <ul>
+        <li>git checkout
+            <ul>
+                <li>git checkout log - recupera um estado do projeto na linha do tempo - desacoplado</li>
+                <ul>
+                    <li>Se não criar um novo branch o head fica perdido, e qualquer alteração será desacoplada da linha do tempo, sem possibilidade de recuperar depois</li>
+                </ul>
+                <li>git checkout -b novo_branch - para criar um novo branch a partir daquela linha temporal e manter no historico</li>
+                <li>git log -p = commit por commit</li>
+                <li>git log --oneline = log reduzido</li>
+                <li>git diff = compara dois commits
+                    <ul>
+                        <li>git diff 3cbe3ce..809340c</li>
+                        <li>
+                            <figure>
+                                <img src="{{asset('print_diff.PNG')}}">
+                            </figure>
+                        </li>
+                    </ul>
+                </li>
             </ul>
         </li>
     </ul>
