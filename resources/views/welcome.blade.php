@@ -48,5 +48,15 @@
             </ul>
         </li>
     </ul>
+
+    <ul>
+        <li>git tag
+            <ul>
+                <li>git tag -a versao [0.0.0] = lançamento de versão</li>
+                <li>git tag = listar versões</li>
+                <li>git push origin master --tags = subir alteracoes para o servidor e a tag</li>
+            </ul>
+        </li>
+    </ul>
 <footer class="footer">Rodapé Curso git</footer>
 </html>
