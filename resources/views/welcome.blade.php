@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Curso Git Branch Título</title>
+    <title>CURSO Git Branch Título</title>
 </head>
 <body>
     <h1>Merge da branch master com a branch titulo</h1>
