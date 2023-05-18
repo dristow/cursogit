@@ -9,9 +9,9 @@
     <ul>
         <li>Vagrant: Gerenciamento Máquinas Virtuais</li>
         <li>Docker: Criando containers sem dor de cabeça</li>
-        <li>Deploy</li>
-        <li class="column">Integração</li>
-        <li>Status</li>
+        <li>Ansible: Infraestrutura como código</li>
+        <li>Integração Contínua: Maturidade e Produtividade no Desenvolvimento de Software</li>
+        <li>Kubernetes</li>
     </ul>
 </body>
 <footer class="footer">Rodapé Curso git</footer>
