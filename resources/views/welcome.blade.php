@@ -12,7 +12,6 @@
         <li>Deploy</li>
         <li class="column">Integração</li>
         <li>Status</li>
-        <li>SETUP</li>
     </ul>
 </body>
 <footer class="footer">Rodapé Curso git</footer>
